@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.para{
+  background-color: lightblue;
+  margin: 20px;
+  padding: 5px;
+  border-radius: 20px;
+}
